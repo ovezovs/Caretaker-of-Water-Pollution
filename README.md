@@ -1,6 +1,7 @@
 # *Project Name:* Caretaker of Water Pollution (CWP)
 
 # Demo of the prototype
+Please follow the link to view the demo video:
 https://drive.google.com/open?id=1XsNXB4qfJMBPTxMUBDmU2wwmFxBCkdXf
 
 # Description

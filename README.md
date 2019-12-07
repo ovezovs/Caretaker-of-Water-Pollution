@@ -15,4 +15,5 @@ Tech stack:
 Environmental impact: 
 	
 	Water free from chemical pollution;
+	Preserved water animals and plants;
 	Safe biodiversity in local and global water bodies;
